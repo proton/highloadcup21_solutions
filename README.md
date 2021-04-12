@@ -9,3 +9,4 @@ https://cups.mail.ru/ru/contests/goldrush
 |   7 | https://github.com/podliy16/hl2021           | Go       |  8259070 | Александр Подлесный    |
 |   8 | https://github.com/ud1/hlcup2021             | C++      |  8251348 | Денис Уткин            |
 |  30 | https://github.com/alikinEA/highloadcup-2021 | Java     |  7676265 | Евгений Аликин         |
+|  32 | https://github.com/and800/highloadcup        | Python   |  7632343 | Andrii Maletskyi       |
