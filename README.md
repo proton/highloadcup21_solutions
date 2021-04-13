@@ -12,4 +12,4 @@ https://cups.mail.ru/ru/contests/goldrush
 |  26 | https://github.com/Hartigan/highload2021       | C#       |  7796409         | Анатолий Сафонов       |
 |  30 | https://github.com/alikinEA/highloadcup-2021   | Java     |  7676265         | Евгений Аликин         |
 |  32 | https://github.com/and800/highloadcup          | Python   |  7632343         | Andrii Maletskyi       |
-|  97 | https://github.com/melgenek/goldrush_scala     | Scala    |   577910(round 2)| Yevhenii Melnyk        |
+|  97 | https://github.com/melgenek/goldrush_scala     | Scala    |   577910 <sub><sup>(round 2)</sub></sup> | Yevhenii Melnyk        |
